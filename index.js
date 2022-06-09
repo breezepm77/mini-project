@@ -9,14 +9,16 @@ const elts = {
 
 // The strings to morph between. You can change these to anything you want!
 const texts = [
-	"cs",
-	"go",
-	"1.6",
-	"russian",
-	"game",
-	"no",
-	"turkis",
-	"'(●'◡'●)'"
+	"I",
+	"will",
+	"kill",
+	"you",
+	"with",
+	"a",
+	"knife",
+	"in",
+	"cs 1.6",
+	"🔪"
 ];
 
 // Controls the speed of morphing.
